@@ -185,4 +185,5 @@
       android:value="true"/>
   </application>
 
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
 </manifest>
